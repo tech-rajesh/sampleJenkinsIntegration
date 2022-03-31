@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22353" started-at="2022-03-30T16:11:58 IST" finished-at="2022-03-30T16:12:20 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22353" started-at="2022-03-30T16:11:58 IST" finished-at="2022-03-30T16:12:20 IST">
+      <class name="actionExample.DragDropExample">
+        <test-method status="PASS" signature="dragdropTest1()[pri:0, instance:actionExample.DragDropExample@4f7d0008]" name="dragdropTest1" duration-ms="13114" started-at="2022-03-30T16:11:58 IST" finished-at="2022-03-30T16:12:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragdropTest1 -->
+      </class> <!-- actionExample.DragDropExample -->
+      <class name="actionExample.DragDropExample2">
+        <test-method status="PASS" signature="dragdropTest1()[pri:0, instance:actionExample.DragDropExample2@6fd02e5]" name="dragdropTest1" duration-ms="9150" started-at="2022-03-30T16:12:11 IST" finished-at="2022-03-30T16:12:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragdropTest1 -->
+      </class> <!-- actionExample.DragDropExample2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
